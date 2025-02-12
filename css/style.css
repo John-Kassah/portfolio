@@ -25,7 +25,7 @@
 
 .hero {
     height: 100vh;
-    background-image: url(../css/images/hero-bg.png);
+    background-image: url(../images/hero-bg.png);
     width: 100v;
     background-position: center;
     background-size: cover;
@@ -46,7 +46,7 @@
     width: 200px;
     height: 200px;
     clip-path: circle(50% at center);
-    background-image: url(./images/profile-bg.png);
+    background-image: url(../images/profile-bg.png);
     background-size: cover;
     background-position: center;
 }
